@@ -10,7 +10,7 @@ The site is built in Bootstrap. Bootstrap is a "sleek, intuitive, and powerful m
 framework for faster and easier web development." If you don't know what Bootstrap is, don't bother seeing the rest of the
 site's code. If you don't know what anything of that quote means, don't bother seeing the rest of the site's code.
 
-If you do know what that stuff was, hurray! You <i>may</> see the website, but ONLY IF you know the languages Boostrap 
+If you do know what that stuff was, hurray! You <i>may</i> see the website, but ONLY IF you know the languages Boostrap 
 uses to work--HTML, CSS and Javascript. If you don't know any of those, don't bother seeing the rest of the site's code.
 
 If you want to see the site's code and you don't meet the criteria to do so, please contact its main and only coder at:
