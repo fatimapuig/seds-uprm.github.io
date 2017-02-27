@@ -8053,7 +8053,7 @@ a.text-danger:hover {
     position: absolute
 }
 .navbar-brand {
-    padding: 1rem 0 1.0625rem;
+    padding: 0rem 0 0rem;
     margin: 0
 }
 .icon-logo {
@@ -9405,4 +9405,5 @@ figure {
 #jumbotwo {
     background: url(build/img/iss_aurora.jpg) no-repeat;
 }
+
 /*# sourceMappingURL=landio.css.map */
