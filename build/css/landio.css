@@ -8340,17 +8340,12 @@ body {
     height: 100%
 }
 
-#jumbo {
-    background: black url(../img/bg-header.jpg);
-}
-.jumbotron {
-    padding-top: 7rem;
-    margin-bottom: 0;
-    background: #663fb5 no-repeat center bottom;
-    background-size: cover;
-    border-radius: 0
 
+.jumbotron {
+background-image: url("../img/bg-header.jpg");
+background-size: cover;}
 }
+
 @media (max-width: 767px) {
     .jumbotron {
         padding-top: 6.25rem
@@ -9396,14 +9391,16 @@ figure {
     display: none;
     /* Preload the Second Pricing Image */
     background: url(../img/preloader_2.gif) no-repeat 9999px 9999px;
-    background-position: 9999px 9999px;
-
-#jumbo {
-    background: url(build/img/bg-header.jpg) no-repeat;
-}
+    background-position: 9999px 9999px;}
 
 #jumbotwo {
     background: url(build/img/iss_aurora.jpg) no-repeat;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%; 
+    height: auto;
 }
 
 /*# sourceMappingURL=landio.css.map */
